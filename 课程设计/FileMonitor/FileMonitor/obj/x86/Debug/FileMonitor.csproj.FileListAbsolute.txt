@@ -1,0 +1,7 @@
+c:\users\dell\documents\visual studio 2010\Projects\FileMonitor\FileMonitor\bin\Debug\FileMonitor.exe
+c:\users\dell\documents\visual studio 2010\Projects\FileMonitor\FileMonitor\bin\Debug\FileMonitor.pdb
+c:\users\dell\documents\visual studio 2010\Projects\FileMonitor\FileMonitor\obj\x86\Debug\FileMonitor.Form1.resources
+c:\users\dell\documents\visual studio 2010\Projects\FileMonitor\FileMonitor\obj\x86\Debug\FileMonitor.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2010\Projects\FileMonitor\FileMonitor\obj\x86\Debug\FileMonitor.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2010\Projects\FileMonitor\FileMonitor\obj\x86\Debug\FileMonitor.exe
+c:\users\dell\documents\visual studio 2010\Projects\FileMonitor\FileMonitor\obj\x86\Debug\FileMonitor.pdb
